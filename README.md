@@ -15,7 +15,7 @@
 <br />
 <div align="center">
   <a href="[https://github.com/Intuitive-Brilliance/Megatron-ChatBot](https://github.com/Intuitive-Brilliance/Megatron-ChatBot)">
-    <img src="https://camo.githubusercontent.com/29d8540b89fb65e921fddb15d798dca844dfa0a78768f2db947a9b9349d89101/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313230302f312a39493645494c354e47323041387365356166566d4f672e676966" alt="Logo" width="120" height="120">
+    <img src="https://www.elsbusinesstraining.co.uk/wp-content/uploads/2019/09/Brain-GIF.gif" alt="Logo" width="240" height="150">
   </a>
 
 <h3 align="center">Brain Tumor Detection</h3>
