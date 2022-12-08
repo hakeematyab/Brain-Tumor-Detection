@@ -50,7 +50,6 @@ An end-to-end application to detect the presence of a brain tumor and also it's 
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -109,24 +108,10 @@ Install the requirements.txt file and run the application.
 
 ### Prerequisites
 
-* Run
-  ```sh
-  pip install -r requirements.txt
-  ```
-
-### Installation
-Following API's are used
-
-1. Google OCR API.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-The ChatBot can be deployed on any website of your choice, however, the files need to be configures appropriately.
+Install the dependensies --> Run --> Upload the image --> Obtain the prediction.
 
 <!---_For more examples, please refer to the [Documentation](https://example.com)_--->
 
@@ -144,16 +129,13 @@ The ChatBot can be deployed on any website of your choice, however, the files ne
 - [ ] Backend
   - [ ]  Training
     - [ ] Preprocess the data  
-    - [ ] Load the base YOLO V5 Model
+    - [ ] Load the base Detectron2 Model
     - [ ] Set the hyperperameters
     - [ ] Train
   - [ ] Prediction
     - [ ] Load the pre-trained model.
     - [ ] Run prediction on the uploaded image.
-    - [ ] Crop the area of predicted bounding box
-    - [ ] Send the cropped image to Google OCR
-    - [ ] Obtain the license number
-    - [ ] Send the cropped image and license number to frontend.
+    - [ ] Send the outcome to frontend.
 
 
 <!---See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).--->
