@@ -67,10 +67,10 @@ An end-to-end application to capture the license plate numbers of vehicles and r
 ## About The Project
 <div align="center">
   <a href="[https://github.com/Intuitive-Brilliance/Megatron-ChatBot](https://github.com/Intuitive-Brilliance/Megatron-ChatBot)">
-    <img src="https://user-images.githubusercontent.com/88573121/206455351-ada32919-f206-405a-b1fd-49313cae026a.png" alt="Logo" width="216" height="384">
-    <img src="https://user-images.githubusercontent.com/88573121/206455362-e9d39f00-4740-4f91-9b73-74559c3b214b.png" alt="Logo" width="216" height="384">
-    <img src="https://user-images.githubusercontent.com/88573121/206455366-6a44dc40-e62a-4587-b774-6568a235dc32.png" alt="Logo" width="216" height="384">
-    <img src="https://user-images.githubusercontent.com/88573121/206455369-526ba034-301a-4c27-b9b1-a5446c98ea82.png" alt="Logo" width="216" height="384">
+    <img src="https://user-images.githubusercontent.com/88573121/206455351-ada32919-f206-405a-b1fd-49313cae026a.png" alt="Logo" width="216" height="256">
+    <img src="https://user-images.githubusercontent.com/88573121/206455362-e9d39f00-4740-4f91-9b73-74559c3b214b.png" alt="Logo" width="216" height="256">
+    <img src="https://user-images.githubusercontent.com/88573121/206455366-6a44dc40-e62a-4587-b774-6568a235dc32.png" alt="Logo" width="216" height="256">
+    <img src="https://user-images.githubusercontent.com/88573121/206455369-526ba034-301a-4c27-b9b1-a5446c98ea82.png" alt="Logo" width="216" height="256">
   </a>
 </div>
 
