@@ -108,6 +108,11 @@ Install the requirements.txt file and run the application.
 
 ### Prerequisites
 
+* Run
+  ```sh
+  pip install -r requirements.txt
+  ```
+
 <!-- USAGE EXAMPLES -->
 ## Usage
 
