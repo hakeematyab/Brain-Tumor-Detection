@@ -66,6 +66,13 @@ An end-to-end application to capture the license plate numbers of vehicles and r
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+<div align="center">
+  <a href="[https://github.com/Intuitive-Brilliance/Megatron-ChatBot](https://github.com/Intuitive-Brilliance/Megatron-ChatBot)">
+    <img src="https://user-images.githubusercontent.com/88573121/205493007-229ad9ad-6737-4076-bc8b-6c1862af361a.png" alt="Logo" width="216" height="384">
+    <img src="https://user-images.githubusercontent.com/88573121/205493048-7dea1d63-62e1-4400-84b9-72dc38918512.png" alt="Logo" width="216" height="384">
+    <img src="https://user-images.githubusercontent.com/88573121/205493073-ad8f9e26-a058-4ec8-a4d6-08c58dfb342e.png" alt="Logo" width="216" height="384">
+  </a>
+</div>
 
 <!---[![Product Name Screen Shot][product-screenshot]](https://example.com)--->
 
