@@ -21,7 +21,7 @@
 <h3 align="center">Brain Tumor Detection</h3>
 
   <p align="center">
-An end-to-end application to capture the license plate numbers of vehicles and retrieve their corresponding license numbers.
+An end-to-end application to detect the presence of a brain tumor and also it's location.
     <br />
 <!--<a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
@@ -75,9 +75,7 @@ An end-to-end application to capture the license plate numbers of vehicles and r
 
 <!---[![Product Name Screen Shot][product-screenshot]](https://example.com)--->
 
-Traffic police officers face the challenge of managing a large volume of traffic while ensuring that traffic rules are followed. However, the limits of human capability mean that many rule breakers go undetected, leading to dangerous situations on the roads. To address this problem, license plate numbers of rule violators can be captured and used to identify and punish them. This not only helps to maintain order on the roads but also makes them safer for everyone. By imposing penalties on rule breakers, traffic police can deter others from violating the rules and create a safer environment for everyone on the roads.
-
-To capture the license plate numbers of rule violators, traffic police officers can use automated number plate recognition (ANPR) systems. These systems use cameras and computer vision algorithms to automatically detect and read license plate numbers from passing vehicles. The captured license plate numbers can then be compared against a database of registered vehicles and known rule violators to identify potential offenders. This allows traffic police to quickly and accurately identify rule violators and take appropriate action, such as issuing a ticket or impounding the vehicle. By using ANPR systems, traffic police officers can improve their efficiency and effectiveness in enforcing traffic rules, helping to make the roads safer for everyone.
+Medical professionals often have a demanding and stressful job. In order to make their workload more manageable, prioritization and organization of tasks is important. A brain tumor detection model can help with this by quickly analyzing CT scans to detect the presence and location of a tumor. This can streamline the diagnostic process and allow medical professionals to focus on other important tasks.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
