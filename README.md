@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <div align="center">
-  <a href="[https://github.com/hakeematyab/Brain-Tumor-Detection](https://github.com/hakeematyab/Brain-Tumor-Detection/assets/88573121/87d559c2-6686-4191-a781-5e720d6e3198)">
-    <img src="https://github.com/hakeematyab/Brain-Tumor-Detection/assets/88573121/87d559c2-6686-4191-a781-5e720d6e3198" alt="Logo" width="360" height="360">
+  <a href="[https://github.com/hakeematyab/Brain-Tumor-Detection](https://github.com/hakeematyab/Brain-Tumor-Detection/assets/88573121/9e96fc85-351c-4d7b-9c47-f7cca6a2402a)">
+    <img src="https://github.com/hakeematyab/Brain-Tumor-Detection/assets/88573121/9e96fc85-351c-4d7b-9c47-f7cca6a2402a" alt="Logo" width="720" height="480">
   </a>
 </div>
 
